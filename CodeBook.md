@@ -67,8 +67,4 @@ The script run_analysis.R performs the 5 steps described in the course project's
 # Requiriments
 
 1. Libraries: reshapre2 and data.table.
-2. Load both test and train data
-3. Load the features and activity labels.
-4. Extract the mean and standard deviation column names and data.
-5. Process the data. There are two parts processing test and train data respectively.
-6. Merge data set.
+
