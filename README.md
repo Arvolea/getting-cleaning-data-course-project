@@ -1,5 +1,4 @@
-# Coursera - Getting and Cleaning Data Course Project
-___________________________________________________________________________________________________
+# Getting and Cleaning Data Course Project
 
 Rodrigo Ansanello Arvolea
 
