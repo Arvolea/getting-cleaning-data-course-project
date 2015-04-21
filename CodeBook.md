@@ -5,8 +5,8 @@ The purpose of this Code book is describe the variables, data and any transforma
 # Data source
 
 Data of project: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 Dataset description: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-Data Set Information
 
 # Data Set Information 
 
